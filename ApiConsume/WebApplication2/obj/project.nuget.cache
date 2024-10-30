@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B7qdYFDTsJPB8vr8ayfBZJ/KDErrtlp7AlZE+3ilKF7BzytedlKIYfv5eknxuXN8pPFMm48Y3CZ7UreqfzgnZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sibel.saribas\\source\\repos\\MyApiProject\\ApiConsume\\WebApplication2\\WebApplication2.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sibel.saribas\\.nuget\\packages\\fsharp.core\\7.0.200\\fsharp.core.7.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
