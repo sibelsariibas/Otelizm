@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rnyNxvREfu4R9wlrNG0mAqYPlFoTPYQUvbDlHKCpR4t7B8jBI2sEyKqQby6grQilhqQNGm17f3vpyaYlk1M1+Q==",
+  "dgSpecHash": "p1UYIlnSyjhoCzoazK3pWdGQVgebnUpSBOOhaFQXvL2eqhlpcOsmn41BD+hdY/tXB3H7+oy4/k10Vsrvv9Bvlg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sibel.saribas\\source\\repos\\MyApiProject\\FrontEnd\\HotelProject.WebUI\\HotelProject.WebUI.csproj",
+  "projectFilePath": "C:\\Users\\sibel.saribas\\Desktop\\Otelizm\\FrontEnd\\HotelProject.WebUI\\HotelProject.WebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sibel.saribas\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\sibel.saribas\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

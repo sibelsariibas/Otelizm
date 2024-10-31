@@ -3295,11 +3295,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sibel.saribas\\source\\repos\\MyApiProject\\ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\sibel.saribas\\Desktop\\Otelizm\\ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj",
       "projectName": "HotelProject.WebApi",
-      "projectPath": "C:\\Users\\sibel.saribas\\source\\repos\\MyApiProject\\ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj",
+      "projectPath": "C:\\Users\\sibel.saribas\\Desktop\\Otelizm\\ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj",
       "packagesPath": "C:\\Users\\sibel.saribas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sibel.saribas\\source\\repos\\MyApiProject\\ApiConsume\\HotelProject.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\sibel.saribas\\Desktop\\Otelizm\\ApiConsume\\HotelProject.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3319,17 +3319,17 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\sibel.saribas\\source\\repos\\MyApiProject\\ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj": {
-              "projectPath": "C:\\Users\\sibel.saribas\\source\\repos\\MyApiProject\\ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj"
+            "C:\\Users\\sibel.saribas\\Desktop\\Otelizm\\ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\sibel.saribas\\Desktop\\Otelizm\\ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj"
             },
-            "C:\\Users\\sibel.saribas\\source\\repos\\MyApiProject\\ApiConsume\\HotelProject.DtoLayer\\HotelProject.DtoLayer.csproj": {
-              "projectPath": "C:\\Users\\sibel.saribas\\source\\repos\\MyApiProject\\ApiConsume\\HotelProject.DtoLayer\\HotelProject.DtoLayer.csproj"
+            "C:\\Users\\sibel.saribas\\Desktop\\Otelizm\\ApiConsume\\HotelProject.DtoLayer\\HotelProject.DtoLayer.csproj": {
+              "projectPath": "C:\\Users\\sibel.saribas\\Desktop\\Otelizm\\ApiConsume\\HotelProject.DtoLayer\\HotelProject.DtoLayer.csproj"
             },
-            "C:\\Users\\sibel.saribas\\source\\repos\\MyApiProject\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj": {
-              "projectPath": "C:\\Users\\sibel.saribas\\source\\repos\\MyApiProject\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj"
+            "C:\\Users\\sibel.saribas\\Desktop\\Otelizm\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\sibel.saribas\\Desktop\\Otelizm\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj"
             },
-            "C:\\Users\\sibel.saribas\\source\\repos\\MyApiProject\\ApiConsume\\HotepProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\sibel.saribas\\source\\repos\\MyApiProject\\ApiConsume\\HotepProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj"
+            "C:\\Users\\sibel.saribas\\Desktop\\Otelizm\\ApiConsume\\HotepProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\sibel.saribas\\Desktop\\Otelizm\\ApiConsume\\HotepProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj"
             }
           }
         }

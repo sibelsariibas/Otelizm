@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OdxWavZKGV9HBiC45JejTtkIIlUsbyurLEebMvsrWy/jEqoD2wk8bPQC5RkGKUufTtc3ao3kaHs0Tf7ueoBh0g==",
+  "dgSpecHash": "2DvQW/7AImIjmTImyIygvH8E6v1XShzV8svo1/7bu6vKAcbhVWauyT8UKKUxUbGDnDDZ+OXGsjcslOlJiSv73w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sibel.saribas\\source\\repos\\MyApiProject\\ApiConsume\\HotelProject.DtoLayer\\HotelProject.DtoLayer.csproj",
+  "projectFilePath": "C:\\Users\\sibel.saribas\\Desktop\\Otelizm\\ApiConsume\\HotelProject.DtoLayer\\HotelProject.DtoLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sibel.saribas\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\sibel.saribas\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

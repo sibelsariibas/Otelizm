@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nz7a6/HWDqkvVmcldDsmvaGX5Ec0PdtRKakht2Rba78LJ/wBF25SRzQqtbjn+THwozHIr/NEU/lT6I1CGc2YMw==",
+  "dgSpecHash": "pxHsGYwUglCr+xuACJUaRW9oddsYe4BxDpbSxc4u4MQydX5/nF54K+LP4FeKjV42Fzxn3kLUWF+lFVMcF7CmYg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sibel.saribas\\source\\repos\\MyApiProject\\ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\sibel.saribas\\Desktop\\Otelizm\\ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sibel.saribas\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\sibel.saribas\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
